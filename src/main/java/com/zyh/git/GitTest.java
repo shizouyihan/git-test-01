@@ -14,5 +14,6 @@ public class GitTest {
         System.out.println("我是热修2");
         System.out.println("master test");
         System.out.println("push test");
+        System.out.println("老六偷偷摸摸的改了代码111");
     }
 }
