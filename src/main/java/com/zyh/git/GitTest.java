@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("Hello,zyh");
         System.out.println("Hello,git");
         System.out.println("来了老弟3");
+        System.out.println("我是热修");
     }
 }
