@@ -8,5 +8,6 @@ package com.zyh.git;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("我是2023/2/10");
+        System.out.println("18:02");
     }
 }
