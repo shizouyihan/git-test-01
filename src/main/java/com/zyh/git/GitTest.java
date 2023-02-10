@@ -7,15 +7,6 @@ package com.zyh.git;
  */
 public class GitTest {
     public static void main(String[] args) {
-        System.out.println("Hello,zyh");
-        System.out.println("Hello,git");
-        System.out.println("来了老弟3");
-        System.out.println("我是热修");
-        System.out.println("我是热修2");
-        System.out.println("master test");
-        System.out.println("push test");
-        System.out.println("老六偷偷摸摸的改了代码111");
-        System.out.println("你好，我是gitee，你收到了吗");
-        System.out.println("你好，我是远程的gitee");
+        System.out.println("我是2023/2/10");
     }
 }
